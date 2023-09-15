@@ -46,5 +46,24 @@ Run the following Terraform commandsL:
    ```shell
    terraform init
    terraform apply
+   ```
+5. Manage IAM Resources:
+
+After applying the configuration, IAM resources will be created and managed automatically.
+
+## Usage
+
+This repository streamlines IAM management by automating user and policy provisioning. Customize IAM configurations to align with your organization's access control policies.
+
+## Acknowledgments
+
+Special thanks to the Terraform community for creating and maintaining infrastructure as code tools.
+
+## Questions or Feedback?
+
+If you have any questions, feedback, or would like to contribute to this project, feel free to open an issue or reach out to the project owner, [Nikhil Mishra](https://github.com/nikhilm21).
+
+Automate IAM with Terraform for efficient access management!
+
 
 
